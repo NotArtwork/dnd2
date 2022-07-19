@@ -39,3 +39,23 @@
   cursor: pointer;
   color:orange;
 }
+
+h1, h2, h3 {
+  font-family: 'Cinzel';
+}
+
+.selected-char-img {
+  width: 400px;
+  height: auto;
+  display: block;
+}
+
+.char-select-container {
+  display: flex;
+  justify-content: center;
+}
+
+.char-name, .class-select{
+  text-align: center;
+  font-size: 1.5em;
+}
